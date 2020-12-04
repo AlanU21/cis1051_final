@@ -2,7 +2,7 @@
 
 ## What will (likely) be the title of your project?
 
-Raspberry Pi Room Temperature Reader
+Raspberry Pi Room Temperature & Humidity Reader
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
