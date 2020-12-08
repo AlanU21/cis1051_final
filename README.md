@@ -1,1 +1,5 @@
-# cis1051_final
+Video Link: https://youtu.be/Eqh0OrOLkGQ
+
+The video contains all the necessary details regarding the project. However, I posted the video as unlisted due to the myself being unable to blur the account information in the video.
+
+This project enabled me to learn a lot about Raspberry Pi and how to manipulate programs and packages inside it using Terminal. But most important of all, I learned that most of computer programming, as was previously said by my professor, takes a lot longer to implement than you actually think. I searched for a way to text the message to myself without having the automatic trial message show up, but I had a lot of difficulty finding any without using an external SMS gateway. And even those methods that I did find did not end up working, either due to software patches or errors on my part, I'm not sure which. Regardless, I did manage to get the final result I wanted using Twilio (with just a slightly unaesthetic addition). I will definitely be taking this project a step further in the summer and modifying it to moderate the temperatures on my dad's charcoal grill, which was my original inspiration for the project!
